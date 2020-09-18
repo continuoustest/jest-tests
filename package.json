@@ -1,0 +1,20 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": "Jest example test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tests",
+    "jest",
+    "javascript",
+    "js"
+  ],
+  "author": "Raphael Schumacher",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
